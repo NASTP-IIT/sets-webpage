@@ -1,0 +1,9 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.tmp
+.vscode/
+.idea/
+
+# Node (not required to build this static site, but ignore if tooling is added)
+node_modules/
